@@ -1,9 +1,8 @@
 $(document).ready(function() {
 
     var phrases = [
-        'Hello everyone...',
-        'I am a second year student at IIT Kanpur,',
-        'I belong to department of BSBE.',
+        'Heya !',
+        'I am a 3rd year student at IITK,',
         'Please scroll down to know more...',
         
     ];
